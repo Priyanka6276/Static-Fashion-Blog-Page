@@ -1,0 +1,13 @@
+.nav {
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    justify-content: center;
+}
+
+.blog {
+    display: flex;
+    flex-direction: column;
+}
+
